@@ -1,0 +1,28 @@
+,Result-CloudMersive
+0,"{'mean_confidence_level': 0.91,
+ 'text_result': 'This is a lot of 12 point text to test the\n'
+                'ocr code and see if it works on all types\n'
+                'of file format.\n'
+                '\n'
+                'The quick brown dog jumped over the\n'
+                'lazy fox. The quick brown dog jumped\n'
+                'over the lazy fox. The quick brown dog\n'
+                'jumped over the lazy fox. The quick\n'
+                'brown dog jumped over the lazy fox.\n'
+                '\n'}"
+1,"{'mean_confidence_level': 0.87,
+ 'text_result': 'Noisy image\nto test\nTesseract OCR\n\n'}"
+2,"{'mean_confidence_level': 0.82,
+ 'text_result': 'Tesséract Will\nFail With Noisy\nBackgrounds\n\n'}"
+3,"{'mean_confidence_level': 0.75,
+ 'text_result': 'IROQ/\n'
+                'HQZoo\n'
+                'GDIVI7\n'
+                'FOX/O\n'
+                'ENWS\n'
+                'DMVL.\n'
+                'CLU3\n'
+                'BKTZ\n'
+                'AJS1\n'
+                '\n'}"
+4,"{'mean_confidence_level': 0.0, 'text_result': ''}"
